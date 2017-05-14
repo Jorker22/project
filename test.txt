@@ -1,0 +1,9 @@
+9999 1
+VERTEX Kevin
+VERTEX Earth
+VERTEX ewekw
+VERTEX dsd
+VERTEX sd
+EDGE Kevin Earth 1
+EDGE ewekw dsd 1
+EDGE dsd sd 1
